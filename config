@@ -1,14 +1,10 @@
-[SwitchyOmega Conditions]
-@with result
-
-*.cdninstagram.com +Kz
-*.fonts.googleapis.com +Kz
-*.cloudflare.com +Kz
-*.ytimg.com +Kz
-*.youtube.com +Kz
-*.doubleclick.net +Kz
-*.googlevideo.com +Kz
-*.instagram.com +Kz
-*.ggpht.com +Kz
-
-* +direct
+[AutoProxy 0.2.9]
+||cdninstagram.com
+||fonts.googleapis.com
+||cloudflare.com
+||ytimg.com
+||youtube.com
+||doubleclick.net
+||googlevideo.com
+||instagram.com
+||ggpht.com
