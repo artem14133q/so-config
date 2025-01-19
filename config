@@ -1,0 +1,14 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.cdninstagram.com +Kz
+*.fonts.googleapis.com +Kz
+*.cloudflare.com +Kz
+*.ytimg.com +Kz
+*.youtube.com +Kz
+*.doubleclick.net +Kz
+*.googlevideo.com +Kz
+*.instagram.com +Kz
+*.ggpht.com +Kz
+
+* +direct
